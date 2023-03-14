@@ -1,4 +1,5 @@
 public class TiposVariaveis {
+ 
     public static void main(String[] args) throws Exception {
            
               // Declarando e atribuindo valores a variáveis de tipos primitivos
